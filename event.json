@@ -1,3 +1,36 @@
 {
-  "name": "Smile"
+  "object_kind": "deployment",
+  "status": "success",
+  "deployable_id": 967449290,
+  "deployable_url": "https://gitlab.com/smilegupta/gitlab-bot/-/jobs/967449290",
+  "environment": "prod",
+  "project": {
+    "id": 23713519,
+    "name": "gitlab-bot",
+    "description": "",
+    "web_url": "https://gitlab.com/smilegupta/gitlab-bot",
+    "avatar_url": null,
+    "git_ssh_url": "git@gitlab.com:smilegupta/gitlab-bot.git",
+    "git_http_url": "https://gitlab.com/smilegupta/gitlab-bot.git",
+    "namespace": "Smile Gupta",
+    "visibility_level": 0,
+    "path_with_namespace": "smilegupta/gitlab-bot",
+    "default_branch": "master",
+    "ci_config_path": "",
+    "homepage": "https://gitlab.com/smilegupta/gitlab-bot",
+    "url": "git@gitlab.com:smilegupta/gitlab-bot.git",
+    "ssh_url": "git@gitlab.com:smilegupta/gitlab-bot.git",
+    "http_url": "https://gitlab.com/smilegupta/gitlab-bot.git"
+  },
+  "short_sha": "517eae5b",
+  "user": {
+    "id": 5761725,
+    "name": "Smile Gupta",
+    "username": "smilegupta",
+    "avatar_url": "https://gitlab.com/uploads/-/system/user/avatar/5761725/avatar.png",
+    "email": "guptamiley3012@gmail.com"
+  },
+  "user_url": "https://gitlab.com/smilegupta",
+  "commit_url": "https://gitlab.com/smilegupta/gitlab-bot/-/commit/517eae5bfa9af075151cadeb73449e21bb0e73c9",
+  "commit_title": "Update README.md"
 }
